@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+} */
+nav{
+  background-color: #630afd;
+  color: white;
+  padding: 30px;
+}
+h1,button,p{
+  display: inline;
+  
+}
+button{
+  background-color: #eeedee;
+  color: rgb(60, 12, 184);
+  border: none;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  margin-left: 50%;
+}
+p,h1{
+  margin-left: 90px;
 }
